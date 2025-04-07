@@ -1,0 +1,14 @@
+.left-nav-wrapper {
+  position: fixed;
+  top: 42px;
+  z-index: 2;
+  background: white;
+  min-width: 200px;
+  border: 1px solid;
+  padding: 0.5rem;
+}
+
+.left-nav ul {
+  flex-direction: column;
+  margin: 0;
+}
