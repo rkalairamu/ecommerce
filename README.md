@@ -1,4 +1,4 @@
-🛍️ eCommerce Application – Micro Frontend Architecture
+🛍️ #eCommerce Application – Micro Frontend Architecture
 
 This application follows the Micro Frontend architecture, where each functional domain is developed and deployed independently, promoting scalability, modularity, and team autonomy.
 
