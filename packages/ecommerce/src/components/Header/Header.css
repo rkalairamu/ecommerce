@@ -1,0 +1,28 @@
+.header {
+  z-index: 1;
+}
+
+.logo {
+  margin: 1rem 0;
+}
+
+.logo svg {
+  margin-right: 0.5rem;
+}
+
+.logo a {
+  text-decoration: none;
+  color: #000000;
+}
+
+.nav ul {
+  display: flex;
+  list-style-type: none;
+  gap: 1rem;
+  padding: 0;
+}
+
+.header-row1 {
+  display: flex;
+  justify-content: space-between;
+}

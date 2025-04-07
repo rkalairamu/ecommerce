@@ -1,0 +1,30 @@
+.product {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid;
+  padding: 1rem;
+  width: 150px;
+}
+
+.product-image {
+  width: 150px;
+}
+
+.product-image-wrap {
+  height: 150px;
+  overflow: hidden;
+}
+
+.product-name {
+  overflow: hidden;
+  width: 100%;
+  display: inline-block;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  margin: 0.5rem 0;
+}
+
+.cart-actions {
+  display: flex;
+  gap: 0.5rem;
+}
